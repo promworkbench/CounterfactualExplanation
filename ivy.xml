@@ -43,8 +43,5 @@
 		<dependency conf="lib->default" org="org.mariuszgromada.math" name="MathParser.org-mXparser" rev="4.4.0"/> 
 		<dependency conf="lib->default" org="nz.ac.waikato.cms.weka" name="weka-stable" rev="3.8.3"/>
 		
-		<!-- https://mvnrepository.com/artifact/com.google.ortools/ortools-java -->
-		<dependency org="com.google.ortools" name="ortools-java" rev="9.8.3296"/>
-		
     </dependencies>
 </ivy-module>
